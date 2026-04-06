@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="161.4015"
+            width="161.35500000000002"
             height="8"
             fill="#dea584"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="161.4015"
+            x="161.35500000000002"
             y="0"
-            width="112.80900000000001"
+            width="112.7625"
             height="8"
             fill="#b07219"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="274.2105"
+            x="274.1175"
             y="0"
-            width="41.199"
+            width="41.3385"
             height="8"
             fill="#cb171e"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="315.40950000000004"
+            x="315.456"
             y="0"
-            width="29.666999999999998"
+            width="29.620500000000003"
             height="8"
             fill="#9c4221"
           />
@@ -342,7 +342,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 351 hrs 59 mins
+        YAML - 353 hrs 9 mins
       </text>
     </g>
   
@@ -363,7 +363,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 153 hrs 33 mins
+        Unknown - 153 hrs 37 mins
       </text>
     </g>
   
@@ -391,7 +391,7 @@
     <g transform="translate(230, 125)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Docker - 61 hrs 30 mins
+        Docker - 61 hrs 32 mins
       </text>
     </g>
   
@@ -433,7 +433,7 @@
     <g transform="translate(230, 200)">
       <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        INI - 26 hrs 56 mins
+        INI - 26 hrs 57 mins
       </text>
     </g>
   
