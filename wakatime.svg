@@ -377,7 +377,7 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 100 hrs 40 mins
+        C# - 100 hrs 50 mins
       </text>
     </g>
   
