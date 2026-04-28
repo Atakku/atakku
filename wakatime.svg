@@ -349,14 +349,14 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#9c4221" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 260 hrs 26 mins
+        TOML - 260 hrs 29 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Json - 186 hrs 30 mins
+        Json - 186 hrs 32 mins
       </text>
     </g>
   
@@ -433,7 +433,7 @@
     <g transform="translate(230, 200)">
       <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        INI - 27 hrs 34 mins
+        INI - 27 hrs 36 mins
       </text>
     </g>
   
