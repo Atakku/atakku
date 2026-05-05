@@ -349,7 +349,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#9c4221" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 264 hrs 15 mins
+        TOML - 264 hrs 12 mins
       </text>
     </g>
   
