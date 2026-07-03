@@ -377,7 +377,7 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 117 hrs 39 mins
+        C# - 117 hrs 40 mins
       </text>
     </g>
   
@@ -454,7 +454,7 @@
     <g transform="translate(25, 250)">
       <circle cx="5" cy="6" r="5" fill="#0060ac" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        XML - 21 hrs 27 mins
+        XML - 21 hrs 30 mins
       </text>
     </g>
   
