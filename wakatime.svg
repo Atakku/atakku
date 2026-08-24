@@ -241,7 +241,7 @@
             y="0"
             width="4.185"
             height="8"
-            fill="#c6538c"
+            fill="#858585"
           />
         
           <rect
@@ -251,7 +251,7 @@
             y="0"
             width="4.185"
             height="8"
-            fill="#858585"
+            fill="#c6538c"
           />
         
           <rect
@@ -342,7 +342,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 461 hrs 56 mins
+        YAML - 461 hrs 58 mins
       </text>
     </g>
   
@@ -403,16 +403,16 @@
     </g>
   
     <g transform="translate(230, 150)">
-      <circle cx="5" cy="6" r="5" fill="#c6538c" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SCSS - 39 hrs 6 mins
+        Bash - 39 hrs 6 mins
       </text>
     </g>
   
     <g transform="translate(25, 175)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 38 hrs 57 mins
+        SCSS - 39 hrs 6 mins
       </text>
     </g>
   
