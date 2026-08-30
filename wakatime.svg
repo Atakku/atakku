@@ -179,7 +179,7 @@
             data-testid="lang-progress"
             x="361.5375"
             y="0"
-            width="20.971500000000002"
+            width="21.017999999999997"
             height="8"
             fill="#178600"
           />
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="382.509"
+            x="382.5555"
             y="0"
             width="17.6235"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="400.1325"
+            x="400.179"
             y="0"
             width="15.3915"
             height="8"
@@ -207,7 +207,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="415.524"
+            x="415.5705"
             y="0"
             width="9.113999999999999"
             height="8"
@@ -217,7 +217,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="424.638"
+            x="424.68449999999996"
             y="0"
             width="6.6495"
             height="8"
@@ -227,9 +227,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="431.28749999999997"
+            x="431.33399999999995"
             y="0"
-            width="6.51"
+            width="6.463499999999999"
             height="8"
             fill="#083fa1"
           />
@@ -342,7 +342,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 468 hrs 43 mins
+        YAML - 468 hrs 55 mins
       </text>
     </g>
   
@@ -363,7 +363,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 197 hrs 44 mins
+        C# - 197 hrs 54 mins
       </text>
     </g>
   
