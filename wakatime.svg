@@ -301,7 +301,7 @@
             y="0"
             width="2.5575"
             height="8"
-            fill="#0060ac"
+            fill="#858585"
           />
         
           <rect
@@ -311,7 +311,7 @@
             y="0"
             width="2.5575"
             height="8"
-            fill="#858585"
+            fill="#0060ac"
           />
         
           <rect
@@ -328,7 +328,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 1492 hrs 46 mins
+        Rust - 1492 hrs 50 mins
       </text>
     </g>
   
@@ -384,7 +384,7 @@
     <g transform="translate(25, 125)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Html - 85 hrs 53 mins
+        Html - 85 hrs 54 mins
       </text>
     </g>
   
@@ -445,16 +445,16 @@
     </g>
   
     <g transform="translate(230, 225)">
-      <circle cx="5" cy="6" r="5" fill="#0060ac" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        XML - 24 hrs 34 mins
+        Text - 24 hrs 36 mins
       </text>
     </g>
   
     <g transform="translate(25, 250)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#0060ac" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Text - 24 hrs 33 mins
+        XML - 24 hrs 34 mins
       </text>
     </g>
   
